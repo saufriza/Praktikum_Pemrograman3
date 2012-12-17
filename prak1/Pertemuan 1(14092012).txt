@@ -1,0 +1,23 @@
+SOFTWARE yang dibutuhkan
+* Java SDK 5
+* Maven 2
+* MySQL 5.1
+* GitHub
+
+CONTACT DOSEN
+* endy.muhardin@gmail.com
+* @endymuhardin
+* https://github.com/endymuhardin
+* http://software.endy.muhardin.com
+
+SESI 1 :: 
+Perkenalan
+
+SESI 2 :: 
+* Container
+* Layout Manager 
+
+SESI 3 - 13 ::
+
+SESI 14 ::
+Pesentasi
